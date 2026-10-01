@@ -11,13 +11,21 @@ The **clips** folder includes assets files for STiBaRC Clips, first introduced i
 
 The **LLC** folder includes assets for the main STiBaRC, LLC company itself, established in mid-2020.
 
+### Messenger
+
+The **messenger** folder includes assets for STiBaRC Messenger, launched in 2018.
+
 ### Records
 
-The **records** folder includes assets used for STiBaRC Records, established in early 2020. The current STiBaRC Records branding uses assets from STiBaRC's scrapped 2020 redesign; the "S" logo designed by Isaac Shea.
+The **records** folder includes assets used for STiBaRC Records, established in early 2020. The current STiBaRC Records branding uses assets from STiBaRC's scrapped 2020 redesign; the "S" logo designed by Isaac Shea. Sub-folders include imprint logos of STiBaRC.
 
 ### STiBaRC
 
 This folder includes assets for the main client of STiBaRC.
+
+### Team
+
+The **team** folder features assets from the STiBaRC Team webpage.
 
 ### TV
 
