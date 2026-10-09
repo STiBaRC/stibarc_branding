@@ -37,3 +37,4 @@ The **TV** folder includes assets used for STiBaRC TV. Included also are assets 
 
 -------
 ![STiBaRC 88x31](/stibarc/88x31.gif?raw=true)
+![STiBaRC Pride](https://github.com/user-attachments/assets/58fef757-f732-4850-a8dc-2bb08dfc8667)
