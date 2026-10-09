@@ -36,4 +36,4 @@ The **team** folder features assets from the STiBaRC Team webpage.
 The **TV** folder includes assets used for STiBaRC TV. Included also are assets from the STiBaRC LIVE CONCERT held in 2024.
 
 -------
-<img width="88" height="31" alt="88x31" src="https://github.com/STiBaRC/stibarc_branding/blob/main/stibarc/88x31.gif?raw=true" />
+![STiBaRC 88x31](/stibarc/88x31.gif?raw=true)
